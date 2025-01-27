@@ -1,6 +1,6 @@
-// TODO: write your code here
-import sum from './basic';
+import './basic';
+import './http';
+import './user';
 
-console.log('worked');
 
-console.log(sum([1, 2]));
+console.log('app worked');
